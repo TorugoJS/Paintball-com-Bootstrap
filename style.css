@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2? família= Livre+Bodoni:ital@1 &family= Sonsie+One & display=swap');
+body {
+    font: 20px;
+    font-family: monospace;
+    font-family: 'Sonsie One', sans-serif;
+}
+
+.navbar {
+    background-color: #1C2833;
+}
+
+.quemsomos {
+    background-color: #17202A;
+    color: white;
+    margin-top: 1px;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+#parceiros {
+    background-color: #616A6B;
+    color: white;
+}
+
+#serviços {
+    background-color:#17202A;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.img1,
+.img2 {
+    margin: 10px;
+    border-radius: 50px 0px 50px 0px;
+}
+
+.nav-link {
+    background-color: #BDC3C7;
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.logo {
+    color: #D0D3D4;
+    font-family: monospace;
+    font-size: 55px;
+
+}
+
+span {
+    color: green;
+}
+
+.imgmod {
+    border-radius: 40px;
+}
+
+p {
+    color: white;
+    margin:10px;
+    font-size: 25px;
+    font-family: 'Sonsie One', sans-serif;
+}
