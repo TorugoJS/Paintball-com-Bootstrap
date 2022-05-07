@@ -1,11 +1,11 @@
 
-<h1>Aprendendo Bootstrap</h1>
+<h1>Aprendendo Bootstrap </h1>
 
-<h2>Site do Paintball dos crias</h2>
+<h1>Site do Paintball dos crias</h1>
 
 <h2>Tecnologias:</h2>
 
-<h3>HTML E CSS/BOOTSTRAP</h3>
+<h3>HTML, CSS/BOOTSTRAP</h3>
 
 
 <hr>
